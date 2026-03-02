@@ -3,7 +3,8 @@ title: "Welcome to my site!👋"
 layout: "single"
 hideDate: true
 ---
-![Profile Photo](/profile.jpg)
+
+![Profile Photo](/personal_website/profile.jpg)
 
 Hi, my name is Kathleen Ulanday! I'm a fourth-year student at the College of William & Mary, majoring in Economics with a minor in Data Science. On campus, I'm a member of the Filipino American Student Association and founder of alpha Kappa Delta Phi at W&M.
 
