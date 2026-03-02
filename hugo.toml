@@ -1,0 +1,23 @@
+baseURL = "https://kathleenou.github.io/personal_website/"
+languageCode = "en-us"
+title = "Kathleen Ulanday"
+theme = "PaperMod"
+disableKinds = ["RSS"]
+
+[author]
+  name = "Kathleen Ulanday"
+  
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 1
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 3
