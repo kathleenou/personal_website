@@ -34,7 +34,7 @@ talent patterns and market insights in order to optimize recruiting strategies a
 
 **Marketing Intern — Aramark**
 Williamsburg, VA | February 2025 – May 2025
--Increased user engagement on W&M Dining’s Instagram by 35% over one semester through targeted campaigns, interactive stories, and consistent branding in shared posts.
+- Increased user engagement on W&M Dining’s Instagram by 35% over one semester through targeted campaigns, interactive stories, and consistent branding in shared posts.
 - Planned and executed bi-weekly dining events for 300+ William & Mary students, leading logistics, promotion, and day-of operations to enhance campus community engagement.
 
 **Research Panel Coordinator — Federal Reserve Bank of Atlanta**
