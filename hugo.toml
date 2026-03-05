@@ -21,3 +21,8 @@ disableKinds = ["RSS"]
   name = "Blog"
   url = "/posts/"
   weight = 3
+
+[[menu.main]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/kathleenoliva-ulanday"
+  weight = 4
