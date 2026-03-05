@@ -3,7 +3,7 @@ title: ""
 layout: "single"
 ---
 
-## <a href="https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf" target="_blank">Resume</a>
+<h2><a href="https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf" target="_blank">Resume</a></h2>
 
 ---
 
