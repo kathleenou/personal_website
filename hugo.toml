@@ -26,3 +26,8 @@ disableKinds = ["RSS"]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/kathleenoliva-ulanday"
   weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
