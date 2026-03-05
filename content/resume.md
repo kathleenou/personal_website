@@ -3,5 +3,8 @@ title: ""
 layout: "single"
 ---
 
-<iframe src="https://docs.google.com/viewer?url=https://kathleenou.github.io/personal_website/resume.pdf&embedded=true" width="100%" height="900px" style="border: none;"></iframe>
+<p>To download my resume — <a href="/personal_website/resume.pdf">Click Here</a>.</p>
 
+<object data="/personal_website/resume.pdf" type="application/pdf" width="100%" height="900px">
+  <p>Your browser doesn't support PDF viewing. <a href="/personal_website/resume.pdf">Download it here.</a></p>
+</object>
