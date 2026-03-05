@@ -3,6 +3,8 @@ title: "[Resume](https://kathleenou.github.io/personal_website/KathleenUlanday_R
 layout: "single"
 ---
 
+📄 [Click here to download my resume!](https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf)
+
 📎 [Check out my LinkedIn!](https://www.linkedin.com/in/kathleenoliva-ulanday)
 
 ---
