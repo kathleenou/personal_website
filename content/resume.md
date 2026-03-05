@@ -3,5 +3,5 @@ title: "Resume"
 layout: "single"
 ---
 
-<embed src="/personal_website/resume.pdf" width="100%" height="800px" type="application/pdf">
+<iframe src="/personal_website/resume.pdf" width="100%" height="900px" style="border: none;"></iframe>
 
