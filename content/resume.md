@@ -1,5 +1,5 @@
 ---
-title: "[Resume](https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf)"
+title: "Resume"
 layout: "single"
 ---
 
