@@ -9,7 +9,7 @@ disableKinds = ["RSS"]
   
 [[menu.main]]
   name = "Resume"
-  url = "/resume.pdf"
+  url = "/resume/"
   weight = 1
 
 [[menu.main]]
