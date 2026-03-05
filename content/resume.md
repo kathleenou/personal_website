@@ -1,10 +1,6 @@
 ---
-title: "Resume"
+title: "[Resume](https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf)"
 layout: "single"
----
-
-<a href="https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#333; color:white; border-radius:5px; text-decoration:none;">📄 Download My Resume</a>
-
 ---
 
 📎 [Check out my LinkedIn!](https://www.linkedin.com/in/kathleenoliva-ulanday)
