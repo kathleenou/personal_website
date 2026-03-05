@@ -1,9 +1,9 @@
 ---
-title: "Resume"
+title: ""
 layout: "single"
 ---
 
-📄 [Click here to download my resume!](https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf)
+## <a href="https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf" target="_blank">Resume</a>
 
 ---
 
