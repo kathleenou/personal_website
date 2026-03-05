@@ -9,7 +9,7 @@ disableKinds = ["RSS"]
   
 [[menu.main]]
   name = "Resume"
-  url = "https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf"
+  url = "/resume/"
   weight = 1
 
 [[menu.main]]

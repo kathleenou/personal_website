@@ -1,9 +1,13 @@
 ---
-title: ""
+title: "Resume"
 layout: "single"
 ---
 
-<a href="/personal_website/resume.pdf" download style="display:inline-block; padding:10px 20px; background-color:#333; color:white; border-radius:5px; text-decoration:none;">📄 Download My Resume (PDF)</a>
+<a href="https://kathleenou.github.io/personal_website/KathleenUlanday_Resume.pdf" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#333; color:white; border-radius:5px; text-decoration:none;">📄 Download My Resume</a>
+
+---
+
+📎 [Check out my LinkedIn!](https://www.linkedin.com/in/kathleenoliva-ulanday)
 
 ---
 
@@ -25,21 +29,18 @@ Washington, D.C. | September 2025 – December 2025
 
 **Sourcing Recruiter Intern — Amazon**
 New York City, NY | May 2025 – August 2025
-- Identified and engaged 100+ passive and active candidates each week by combining LinkedIn Recruiter, advanced Boolean search strings,
-and Amazon’s proprietary ATS, meeting 95% of top-of-funnel targets ahead of schedule.
-- Partnered with leadership in Amazon’s emerging Automotive division to define ideal-candidate profiles and develop strategic sourcing
-frameworks, ensuring alignment between business objectives and recruitment targets.
-- Conducted comprehensive organizational analysis of 150+ employees utilizing Excel analytics with LinkedIn and ATS data to identify key
-talent patterns and market insights in order to optimize recruiting strategies and improve candidate qualification rates.
+- Identified and engaged 100+ passive and active candidates each week by combining LinkedIn Recruiter, advanced Boolean search strings, and Amazon's proprietary ATS, meeting 95% of top-of-funnel targets ahead of schedule.
+- Partnered with leadership in Amazon's emerging Automotive division to define ideal-candidate profiles and develop strategic sourcing frameworks, ensuring alignment between business objectives and recruitment targets.
+- Conducted comprehensive organizational analysis of 150+ employees utilizing Excel analytics with LinkedIn and ATS data to identify key talent patterns and market insights in order to optimize recruiting strategies and improve candidate qualification rates.
 
 **Marketing Intern — Aramark**
 Williamsburg, VA | February 2025 – May 2025
-- Increased user engagement on W&M Dining’s Instagram by 35% over one semester through targeted campaigns, interactive stories, and consistent branding in shared posts.
+- Increased user engagement on W&M Dining's Instagram by 35% over one semester through targeted campaigns, interactive stories, and consistent branding in shared posts.
 - Planned and executed bi-weekly dining events for 300+ William & Mary students, leading logistics, promotion, and day-of operations to enhance campus community engagement.
 
 **Research Panel Coordinator — Federal Reserve Bank of Atlanta**
 Atlanta, GA | August 2024 – December 2024
-- Executed 40+ calls daily to Fortune 500 business executives, effectively communicating the purpose and value of the Federal Reserve’s Survey of Business Uncertainty (SBU), contributing to broader nationwide data collection that supports monetary policy formulation.
+- Executed 40+ calls daily to Fortune 500 business executives, effectively communicating the purpose and value of the Federal Reserve's Survey of Business Uncertainty (SBU), contributing to broader nationwide data collection that supports monetary policy formulation.
 - Developed tailored communication strategies to build rapport with financial decision-makers from leading corporations, honing interpersonal skills to address their specific business needs, resulting in successful conversions and enhanced panel diversity.
 
 **PELI Global Markets Summer Analyst — BNP Paribas**
