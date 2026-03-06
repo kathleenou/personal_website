@@ -1,7 +1,9 @@
 ---
-title: "Projects"
+title: ""
 layout: "single"
 ---
+
+## Research
 
 ## Do Student Loans Impact Undergraduate Participation in STEM Fields?
 *Undergraduate Economics Research Paper — Kathleen Ulanday, College of William and Mary*
