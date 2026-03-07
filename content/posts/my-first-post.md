@@ -4,6 +4,8 @@ date: 2026-02-23
 draft: false
 ---
 
+![Blog Photo](/personal_website/blog1_photo.jpg)
+
 When I took my first economics course, ECON 101, I thought the discipline was mostly about 
 graphs, supply and demand curves, and abstract market theories. It wasn't until 
 I spent a summer sourcing at Amazon that I realized economics is everywhere — including in the way companies hire people.
